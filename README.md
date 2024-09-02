@@ -4,7 +4,7 @@
 
 ## 💫 About Me :
 
-With over 2+ years of experience as a Full Stack Developer, I've had the opportunity to work on a variety of large-scale projects. I specialize in developing full-stack applications with strong expertise in containerization, orchestration, and modern web frameworks. I value clear communication and thrive in collaborative team environments. I'm currently seeking new opportunities where I can contribute meaningfully and excel in dynamic, fast-paced settings.
+With over 7+ years of experience as a Full Stack Developer, I've had the opportunity to work on a variety of large-scale projects. I specialize in developing full-stack applications with strong expertise in containerization, orchestration, and modern web frameworks. I value clear communication and thrive in collaborative team environments. I'm currently seeking new opportunities where I can contribute meaningfully and excel in dynamic, fast-paced settings.
 
 ## 🏆 Certifications:
 - Certified MERN Stack Developer, Pakistan Software Houses Association (P@SHA)
